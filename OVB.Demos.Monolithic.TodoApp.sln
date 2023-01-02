@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OVB.Demos.Monolithic.TodoApp.WindowsForms", "OVB.Demos.Monolithic.TodoApp.WindowsForms\OVB.Demos.Monolithic.TodoApp.WindowsForms.csproj", "{AAE4293C-7535-4791-9713-272CE8AE1E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE4293C-7535-4791-9713-272CE8AE1E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE4293C-7535-4791-9713-272CE8AE1E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE4293C-7535-4791-9713-272CE8AE1E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE4293C-7535-4791-9713-272CE8AE1E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A877AD-637E-43C3-AA17-F98E792C3DF2}
+	EndGlobalSection
+EndGlobal
